@@ -1,0 +1,12 @@
+c:\users\darkbound\documents\visual studio 2017\Projects\Project 1\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe.config
+c:\users\darkbound\documents\visual studio 2017\Projects\Project 1\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\Project 1\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.pdb
+c:\users\darkbound\documents\visual studio 2017\Projects\Project 1\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\Project 1\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.pdb
+c:\users\darkbound\documents\visual studio 2017\Projects\Project 1\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csprojResolveAssemblyReference.cache
+G:\Courses\CSharp Course\visual studio projects\07. Project 1\Project 1\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe.config
+G:\Courses\CSharp Course\visual studio projects\07. Project 1\Project 1\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe
+G:\Courses\CSharp Course\visual studio projects\07. Project 1\Project 1\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.pdb
+G:\Courses\CSharp Course\visual studio projects\07. Project 1\Project 1\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csprojResolveAssemblyReference.cache
+G:\Courses\CSharp Course\visual studio projects\07. Project 1\Project 1\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.exe
+G:\Courses\CSharp Course\visual studio projects\07. Project 1\Project 1\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.pdb
